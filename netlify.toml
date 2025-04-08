@@ -1,3 +1,2 @@
 [build]
-  publish = "public"
-  command = "npm run build"  # Если вы используете какие-то сборщики, например, для React, можно изменить команду.
+publish = "public"
